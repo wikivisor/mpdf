@@ -1,6 +1,6 @@
 {
 
-	"name": "mpdf/mpdf",
+	"name": "wikivisor/mpdf",
 	"type": "library",
 
 	"description": "A PHP class to generate PDF files from HTML with Unicode/UTF-8 and CJK support",
@@ -18,8 +18,8 @@
 	],
 
 	"support": {
-		"issues": "https://github.com/mpdf/mpdf/issues",
-		"source": "https://github.com/mpdf/mpdf",
+		"issues": "https://github.com/wikivisor/mpdf/issues",
+		"source": "https://github.com/wikivisor/mpdf",
 		"docs": "http://mpdf.github.io"
 	},
 
